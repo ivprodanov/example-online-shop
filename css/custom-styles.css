@@ -7,11 +7,11 @@
 }
 
 header {
-    background-image: url('/assets/hero.jpg');
+    background-image: url('/assets/photo2.jpg');
     background-size: cover;
-    background-position: inherit;
-    padding-top: 5rem;
-    padding-bottom: 25rem;
+    background-position: center;
+    background-attachment: fixed;
+    height: 100vh;
 }
 
 .header-text {
