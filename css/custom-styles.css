@@ -11,7 +11,7 @@ header {
     background-size: cover;
     background-position: inherit;
     padding-top: 5rem;
-    padding-bottom: 15rem;
+    padding-bottom: 25rem;
 }
 
 .header-text {
@@ -39,5 +39,10 @@ header {
     height: 100%;
     background: rgba(0, 0, 0, 0.4); /* adjust darkness here */
     z-index: 1;
-    
+
+  }
+
+  .card-img-top {
+    object-fit: cover;
+    height: 150px;
   }
